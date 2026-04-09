@@ -52,18 +52,7 @@ python problem6_baselines_suite.py
 python fig8_power_sweep_eval_phys.py
 ```
 
-## Data and reproducibility
 
-No data files were included in the original uploaded archive. Before public release or journal revision submission, add:
-
-- training and validation data used for the surrogate models,
-- any processed data required to reproduce the manuscript figures,
-- model checkpoints only if they are necessary for reproducing the reported results,
-- a short note in `data/README.md` describing provenance, format, and access method.
-
-If some files are too large for a regular Git repository, store them in Git LFS or an external archive such as Zenodo, Figshare, or OSF, and add the corresponding links in `data/README.md`.
-
-## Notes
 
 - The original Java file had a non-English file name and has been renamed to `ablation_model_nosolve20W.java` for cross-platform compatibility.
 - Review `docs/repository_notes.md` before publishing the repository or sharing it with the journal.
