@@ -54,5 +54,3 @@ python fig8_power_sweep_eval_phys.py
 
 
 
-- The original Java file had a non-English file name and has been renamed to `ablation_model_nosolve20W.java` for cross-platform compatibility.
-- Review `docs/repository_notes.md` before publishing the repository or sharing it with the journal.
