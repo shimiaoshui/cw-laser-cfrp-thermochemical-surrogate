@@ -4,14 +4,6 @@ This repository contains the code package reorganized for journal submission and
 
 **Physics-constrained surrogate modelling of hotspot-resolved thermochemical response in continuous-wave laser heating of carbon-fiber-reinforced polymer**
 
-## Repository structure
-
-- `src/`: Python source code for training, baseline comparison, evaluation, and figure generation.
-- `java/`: Supporting Java implementation related to the ablation model.
-- `data/`: Placeholders for raw and processed data, with notes on what should be added before public release or revision submission.
-- `figures/`: Generated figures and exported results.
-- `docs/`: Repository notes, file-renaming map, and release checklist.
-
 ## Main scripts
 
 - `stable_pinn_problem6_fixed_v4_ckpt.py`  
